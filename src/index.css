@@ -1,1 +1,39 @@
 @import "tailwindcss";
+
+@import "@fontsource/vazirmatn/400.css";
+@import "@fontsource/vazirmatn/500.css";
+@import "@fontsource/vazirmatn/600.css";
+@import "@fontsource/vazirmatn/700.css";
+
+@import "@fontsource/inter/400.css";
+@import "@fontsource/inter/500.css";
+@import "@fontsource/inter/600.css";
+@import "@fontsource/inter/700.css";
+
+@import "tailwindcss";
+
+@theme {
+   /* فونت‌ها */
+  --font-vazir: 'Vazirmatn', sans-serif;
+  --font-inter: 'Inter', sans-serif;
+
+  /* پس‌زمینه‌ها */
+  --color-background: #FFFFFF;
+  --color-surface: #F8FAFC;
+
+  /* متن */
+  --color-text-primary: #1E293B;
+  --color-text-secondary: #64748B;
+
+  /* رنگ اصلی برند (آبی) */
+  --color-primary: #2563EB;
+  --color-primary-hover: #1D4ED8;
+  --color-primary-light: #EFF6FF;
+
+  /* بوردر و جداکننده */
+  --color-border: #E2E8F0;
+};
+
+body {
+  font-family: var(--font-vazir);
+}

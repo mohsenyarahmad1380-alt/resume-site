@@ -1,0 +1,11 @@
+{
+  "hero": {
+    "title": "Hi, I'm a Web Designer",
+    "subtitle": "I design clean and modern user interfaces"
+  },
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  }
+}
