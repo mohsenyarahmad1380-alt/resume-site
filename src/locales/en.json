@@ -16,5 +16,39 @@
       "experience": "Years Experience",
       "clients": "Happy Clients"
     }
+  },
+  "about": {
+    "sectionTitle": "About Me",
+    "sectionSubtitle": "Get to know me a little better",
+    "bio": "I'm a full-stack developer focused on building modern and user-friendly web applications. I love learning new technologies and solving complex problems. My goal is to create products that are both beautiful and perform exceptionally well.",
+    "info": {
+      "name": "Name",
+      "nameValue": "Ali Mohammadi",
+      "age": "Age",
+      "ageValue": "25 years",
+      "location": "Location",
+      "locationValue": "Tehran, Iran",
+      "email": "Email",
+      "emailValue": "ali@example.com",
+      "education": "Education",
+      "educationValue": "B.Sc. in Software Engineering",
+      "status": "Status",
+      "statusValue": "Open to work"
+    },
+    "tools": {
+      "title": "My Main Tools",
+      "items": ["React", "Laravel", "Node.js", "Tailwind CSS", "MySQL", "Git"]
+    }
+  },
+  "skills": {
+    "title": "My Skills",
+    "items": [
+      { "name": "HTML & CSS", "level": 95 },
+    { "name": "JavaScript", "level": 88 },
+    { "name": "React.js", "level": 85 },
+    { "name": "Tailwind CSS", "level": 90 },
+    { "name": "Next.js", "level": 75 },
+    { "name": "Figma to Code", "level": 80 }
+    ]
   }
 }
