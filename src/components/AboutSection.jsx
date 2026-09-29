@@ -93,7 +93,7 @@ function AboutSection() {
             ">
               {/* اگه عکس واقعی داری، <img> رو جایگزین کن */}
               <div className="
-                w-full h-full bg-gradient-to-br from-blue-100 to-orange-100
+                w-full h-full bg-linear-to-r from-blue-100 to-orange-100
                 flex items-center justify-center
               ">
                 <span className="text-7xl sm:text-8xl">👨‍💻</span>
